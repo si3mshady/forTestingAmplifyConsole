@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-hitwebhook-dev-151524-authRole",
+      "UnauthRoleArn": "arn:aws:iam::705166095368:role/amplify-hitwebhook-dev-151524-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::705166095368:role/amplify-hitwebhook-dev-151524-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-hitwebhook-dev-151524-deployment",
+      "UnauthRoleName": "amplify-hitwebhook-dev-151524-unauthRole",
+      "StackName": "amplify-hitwebhook-dev-151524",
+      "StackId": "arn:aws:cloudformation:us-east-1:705166095368:stack/amplify-hitwebhook-dev-151524/18a56f30-6be5-11eb-90ee-12136ee127ab",
+      "AmplifyAppId": "d2enu2ltczlna4"
+    }
+  }
+}
